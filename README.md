@@ -1,15 +1,15 @@
-# Title
+# Name
     
 ### Created by Name
     
 ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributions](#contributions)
-    - [Tests](#tests)
-    - [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
     * Description
@@ -18,18 +18,18 @@
     * Install it
 
 ## Usage
-    * Just do it.
+    * Use it
 
 ## License
     * MIT license
 
 ## Contributions
-    * Do it
+    * Yes
 
 ## Tests
-    * Use it
+    * Do it
 
 ## Questions
 ### If you have any questions, please contact me through gitHub or email.
-    * Github link: Link
-    * Email: email
+    * Github link: Yeah...
+    * Email: Whatever
