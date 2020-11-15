@@ -1,8 +1,8 @@
-# README Generator
+# ReadMe Generator
     
-### Created by Bruce Hayes
+### Created by Bruce H Hayes
 
-![License](https://img.shields.io/badge/license-MIT license-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
     
 ## Table of Contents
 - [Description](#description)
@@ -14,24 +14,24 @@
 - [Questions](#questions)
 
 ## Description
-    * This is a README file generator
+    * This is a ReadMe generator
 
 ## Installation
     * Just do it.
 
 ## Usage
-    * Use it how you like.
+    * Use this when you need to generate a ReadMe file.
 
 ## License
-    * MIT license
+    * MIT
 
 ## Contributions
     * Contribute freely.
 
 ## Tests
-    * This will help you generate a README file anytime you need one.
+    * It's good for any situation.
 
 ## Questions
 ### If you have any questions, please contact me through gitHub or email.
     * Github link: No
-    * Email: Whatever
+    * Email: Whatever.
