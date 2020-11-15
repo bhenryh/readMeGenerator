@@ -2,7 +2,7 @@
     
 ### Created by Bruce Hayes
 
-[![License](https://img.shields.io/badge/license-MIT license-blue.svg)]
+![License](https://img.shields.io/badge/license-MIT license-blue.svg)
     
 ## Table of Contents
 - [Description](#description)
@@ -14,24 +14,24 @@
 - [Questions](#questions)
 
 ## Description
-    * This is  README gemerator.
+    * This is a README file generator
 
 ## Installation
     * Just do it.
 
 ## Usage
-    * Follow the prompts.
+    * Use it how you like.
 
 ## License
     * MIT license
 
 ## Contributions
-    * Any way they wish.
+    * Contribute freely.
 
 ## Tests
-    * All cases.
+    * This will help you generate a README file anytime you need one.
 
 ## Questions
 ### If you have any questions, please contact me through gitHub or email.
-    * Github link: No.
-    * Email: Whatever.
+    * Github link: No
+    * Email: Whatever
