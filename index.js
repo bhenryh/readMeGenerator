@@ -4,6 +4,7 @@ const util = require('util');
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
+// Question array:
 const promptUser = () => inquirer.prompt([
     {
         type: 'input',
