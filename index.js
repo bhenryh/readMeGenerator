@@ -35,7 +35,7 @@ const promptUser = () => inquirer.prompt([
         type: 'rawlist',
         name: 'license',
         message: 'Choose the type of license to apply to this application.',
-        choices: ['MIT license', 'Apache License 2.0', 'GPLv3', 'Creative Commons'],
+        choices: ['MIT', 'ApacheLicense2.0', 'GPLv3', 'CreativeCommons'],
     },
     {
         type: 'input',
